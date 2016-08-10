@@ -81,7 +81,7 @@ More info [here](http://tensorflow.org).
 ##Videos
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
-* [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
+* --- [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
 * [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
 * [TensorFlow Udacity Deep Learning](https://www.youtube.com/watch?v=ReaxoSIM5XQ) - Basic steps to install TensorFlow for free on the Cloud 9 online service with 1Gb of data
 * [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips) 
